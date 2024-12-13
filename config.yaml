@@ -1,0 +1,10 @@
+credentials:
+  usernames:
+    kddi:
+      email: xxx@example.com
+      name: User1
+      password: $2b$12$xdmUV711FNluAaU41kW0W.GqikDGWMzjOZVcOvBoHKe7NI5I8zF7y # User1
+cookie:
+  expiry_days: 3
+  key: some_key
+  name: some_cookie_name
